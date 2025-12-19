@@ -975,6 +975,10 @@ input:focus-visible{
   justify-content: center;
 }
 
+.newsletter__input img{
+  padding: 12px;
+}
+
 /* Responsive layout for features grid */
 @media (max-width: 920px){
   .page-hero__inner{
